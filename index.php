@@ -9,5 +9,7 @@
 <body>
     <h1>Hello Guys</h1>
     <p>Percobaan pertama</p>
+    <p>1</p>
+    <p>2</p>
 </body>
 </html>
